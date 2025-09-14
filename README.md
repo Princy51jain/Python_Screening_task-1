@@ -28,5 +28,4 @@ The core functionality of the original project remains intact, but I focused on 
 ```bash
 git clone https://github.com/Princy51jain/workshop_booking.git
 cd workshop_booking
-
----
+```
