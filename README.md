@@ -1,20 +1,32 @@
-# **Workshop Booking**
+# Workshop Booking – UI/UX Enhanced Version 🎨
 
-> This website is for coordinators to book a workshop(s), they can book a workshop based on instructors posts or can propose a workshop date based on their convenience.
+This is an enhanced version of the **Workshop Booking** Django project.  
+The core functionality of the original project remains intact, but I focused on **UI and UX improvements** to make the platform more user-friendly, modern, and visually consistent.
 
+---
 
-### Features
-* Statistics
-    1. Instructors Only
-        * Monthly Workshop Count
-        * Instructor/Coordinator Profile stats
-        * Upcoming Workshops
-        * View/Post comments on Coordinator's Profile
-    2. Open to All
-        * Workshops taken over Map of India
-        * Pie chart based on Total Workshops taken to Type of Workshops.
+## 🚀 Features Added / Enhanced
+- Improved **navigation bar** with responsive design.
+- Clean and consistent **color scheme** and **typography**.
+- Modernized **forms** (login, register, profile update, etc.) with better spacing and alignment.
+- Redesigned **dashboard and workshop pages** for clarity.
+- Added **mobile responsiveness** for smoother use on smaller devices.
+- Enhanced **error and success messages** for better user feedback.
 
-* Workshop Related Features
-    > Instructors can Accept, Reject or Delete workshops based on their preference, also they can postpone a workshop based on coordinators request.
+---
 
-__NOTE__: Check docs/Getting_Started.md for more info.
+## 🛠️ Tech Stack
+- **Backend:** Django (Python)
+- **Frontend Enhancements:** HTML, CSS, JavaScript (custom styling)
+- **Database:** SQLite (default for dev environment)
+
+---
+
+## ⚡ Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/Princy51jain/workshop_booking.git
+cd workshop_booking
+
+---
